@@ -73,4 +73,4 @@ if st.button("🔆Restart Game"):
 
 st.write("-------------------------------------")
 st.write("Amzing Guessing Game enjoy it 🚀")
-st.write("© Azeezullah Noohpoto")
+st.write("© Tooba Sheikh")
